@@ -1,3 +1,5 @@
 ## Hi there 👋 I'm Mohammad Sadegh...
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@8f15f27c-6d24-4ae7-8626-9a1ced258bba/00f5364c-8c8f-42a2-8d4d-2ca58d7add1b.png"></a>
+<figure>
+  <embed src="https://wakatime.com/share/@8f15f27c-6d24-4ae7-8626-9a1ced258bba/7d641e89-467b-443f-badd-edb7b894ffee.svg"></embed>
+</figure>
